@@ -10,7 +10,7 @@ public enum CarBodyTyoeEnum {
     private final String value;
 
     CarBodyTyoeEnum(String value) {
-        this.value=value;
+        this.value = value;
     }
 
     public String getValue() {

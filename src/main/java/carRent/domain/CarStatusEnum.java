@@ -8,7 +8,7 @@ public enum CarStatusEnum {
     private final String statusName;
 
     CarStatusEnum(String statusName) {
-        this.statusName=statusName;
+        this.statusName = statusName;
     }
 
     public String getStatusName() {
